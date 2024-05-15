@@ -27,7 +27,7 @@ The solution to the boards will print to the console, not to an output file.
 When printing the board to the console, the clue cells on the board will print in a blue color, 
 while the cells that were filled in with a number 1-9 will print in a green color. 
 
-### Boards
+## Boards
 
 If one wants to make a new board that is not included in the Boards folder, they have to follow a specific format
 for the program to parse them. 
