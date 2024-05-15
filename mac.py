@@ -195,8 +195,8 @@ def print_board(board, clue_positions):
 
 		print(line)
 
-	print("Total time: ", (end_time - start_time)/1000000000)
-	print("Number of Backtracks: ", num_backtracks)
+	# print("Total time: ", (end_time - start_time)/1000000000)
+	# print("Number of Backtracks: ", num_backtracks)
 
 	## exit program
 	exit()
